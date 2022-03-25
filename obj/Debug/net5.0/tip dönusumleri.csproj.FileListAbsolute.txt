@@ -1,0 +1,16 @@
+C:\Users\berfi\Sites\pratikler\tip dönusumleri\obj\Debug\net5.0\tip dönusumleri.csproj.AssemblyReference.cache
+C:\Users\berfi\Sites\pratikler\tip dönusumleri\obj\Debug\net5.0\tip dönusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berfi\Sites\pratikler\tip dönusumleri\obj\Debug\net5.0\tip dönusumleri.AssemblyInfoInputs.cache
+C:\Users\berfi\Sites\pratikler\tip dönusumleri\obj\Debug\net5.0\tip dönusumleri.AssemblyInfo.cs
+C:\Users\berfi\Sites\pratikler\tip dönusumleri\obj\Debug\net5.0\tip dönusumleri.csproj.CoreCompileInputs.cache
+C:\Users\berfi\Sites\pratikler\tip dönusumleri\bin\Debug\net5.0\tip dönusumleri.exe
+C:\Users\berfi\Sites\pratikler\tip dönusumleri\bin\Debug\net5.0\tip dönusumleri.deps.json
+C:\Users\berfi\Sites\pratikler\tip dönusumleri\bin\Debug\net5.0\tip dönusumleri.runtimeconfig.json
+C:\Users\berfi\Sites\pratikler\tip dönusumleri\bin\Debug\net5.0\tip dönusumleri.runtimeconfig.dev.json
+C:\Users\berfi\Sites\pratikler\tip dönusumleri\bin\Debug\net5.0\tip dönusumleri.dll
+C:\Users\berfi\Sites\pratikler\tip dönusumleri\bin\Debug\net5.0\ref\tip dönusumleri.dll
+C:\Users\berfi\Sites\pratikler\tip dönusumleri\bin\Debug\net5.0\tip dönusumleri.pdb
+C:\Users\berfi\Sites\pratikler\tip dönusumleri\obj\Debug\net5.0\tip dönusumleri.dll
+C:\Users\berfi\Sites\pratikler\tip dönusumleri\obj\Debug\net5.0\ref\tip dönusumleri.dll
+C:\Users\berfi\Sites\pratikler\tip dönusumleri\obj\Debug\net5.0\tip dönusumleri.pdb
+C:\Users\berfi\Sites\pratikler\tip dönusumleri\obj\Debug\net5.0\tip dönusumleri.genruntimeconfig.cache
