@@ -79,15 +79,15 @@ namespace tip_dönusumleri
          public static void ParseMethod() 
          {
            string metin1 = "10";
-           string metin2 = "10.25";
-           int rakam1;
+           string metin2 = "10,25";
+           int Can1;
            double double1;
 
-           rakam1 = Int32.Parse(metin1);
+           Can1 = Int32.Parse(metin1);
            double1 = Double.Parse(metin2);
 
-           Console.WriteLine("rakam1" + rakam1);
-           Console.WriteLine("double1" + double1);
+           Console.WriteLine("Can1  :" + Can1);
+           Console.WriteLine("double1 :" + double1);
 
 
          }
